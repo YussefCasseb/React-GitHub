@@ -1,2 +1,2 @@
 # React-GitHub
- Aplicativo para buscar um usuário de GitHub e listar todos os seus Repositórios.
+ Aplicativo para buscar um Usuário do GitHub e listar todos os seus Repositórios.
